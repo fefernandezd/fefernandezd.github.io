@@ -1,0 +1,27 @@
+
+
+.container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.hero img {
+  width: 100%;
+  border-radius: 0;
+}
+
+section.contact {
+  padding: 1rem;
+  text-align: center;
+}
+
+aside.right, aside.left {
+  text-align: center;
+  float: inherit;
+}
+
+iframe {
+  border-radius: 0;
+  display: block;
+}
